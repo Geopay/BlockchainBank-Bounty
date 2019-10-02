@@ -2,4 +2,4 @@
 iBlockchain Bank &amp; Trust Bounty 
 
 
-# Editing Limitations 
+# Existing Limitations 
