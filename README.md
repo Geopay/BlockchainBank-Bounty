@@ -6,7 +6,12 @@ iBlockchain Bank &amp; Trust Bounty
 
 # Community Projects
 
+Community projects are a crowdfunding feature to fund projects using tokens.
+
 # Community Tokens
+
+Community tokens are offered for various non-profit organizations.
+
 
 # Primary Market
 
