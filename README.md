@@ -4,6 +4,8 @@ iBlockchain Bank &amp; Trust Bounty
 
 # Coin Desk
 
+Coin Desk a service that offers crptocurrencies for purchase.
+
 # Community Projects
 
 Community projects are a crowdfunding feature to fund projects using tokens.
