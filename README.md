@@ -2,20 +2,20 @@
 iBlockchain Bank &amp; Trust Bounty 
 
 
-#Coin Desk
+# Coin Desk
 
-#Community Projects
+# Community Projects
 
-#Community Tokens
+# Community Tokens
 
-#Primary Market
+# Primary Market
 
-#Fractional Precious Metal Assets
+# Fractional Precious Metal Assets
 
-#Real Estate Smart Trusts (RESTs)
+# Real Estate Smart Trusts (RESTs)
 
-#Secondary Market
+# Secondary Market
 
-#Token Market
+# Token Market
 
-#Virtual Asset Investment
+# Virtual Asset Investment
