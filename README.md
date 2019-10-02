@@ -25,6 +25,8 @@ Primary Market: A primary market issues new tokens or tokenized security assets 
 
 # Secondary Market
 
+The secondary market, also called the aftermarket and follow on public or private offering is the financial market in which previously issued financial assets such as tokenized stock, and investment assets are bought and sold.
+
 # Token Market
 
 # Virtual Asset Investment
