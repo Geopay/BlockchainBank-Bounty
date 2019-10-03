@@ -1,7 +1,7 @@
 # BlockchainBank-Bounty
 iBlockchain Bank &amp; Trust Bounty 
 
-![alt text](https://github.com/Geopay/BlockchainBank-Bounty/blob/master/iBBT-Banking-Services.png)
+![iBBT](images/iBBT-Banking-Services.png)
 
 
 # Coin Desk
